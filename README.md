@@ -4,7 +4,7 @@ Tested zoom with Derrick Wammani to prepare for Ablestate online training
 https://github.com/davidofug/testing-zoom.git
 
 BDD: Behaviour Driven Development
-Learn cucumber, used to write development in simple, human understandable language
+Learn cucumber, used to write development in simple, human understandable language.
 
 Login page
 Given: Username and password
@@ -17,7 +17,7 @@ Unit testing: It's testing small section or parts of your code.
 
 ## SRS Software Development Specification
 
-Example: https://github.com/davidofug/unit-testing-javascript-testing-with-jest
+A software requirements specification (SRS) is a description of a software system to be developed. It lays out functional and non-functional requirements, and may include a set of use cases that describe user interactions that the software must provide.
 
 1. Functional testing
 2. Integration testing
@@ -28,6 +28,9 @@ Example: https://github.com/davidofug/unit-testing-javascript-testing-with-jest
 7. Automtted testing and the commonest tool used is Sellenium
 
 # Unit testing sample
+
+Example: https://github.com/davidofug/unit-testing-javascript-testing-with-jest
+
 File functions.js
 
 ``` 
@@ -75,6 +78,23 @@ There are 4 sprint meetings
  c. Sprint review: During which you deliver your results and receive feedback.
  d. Sprint retrospective: Look back on the sprint process and focus on what you can improve as a team for the next sprint.
 
-Daily sprint (
-    - Scrum master leads though might not be present physically, this sprint must take 15mins not more or less. 
-    - Development team and product owner must attend)
+# Object Orientated Programming in PHP
+Our goal is to mimick MVC pattern
+
+Writing modular code.
+
+- Register and authenticate users(specific piece of code for handling the users)
+- Submit blog posts (specific piece of code for handling the posts)
+- But it will hard to maintain
+
+## Programming paradigm
+ - OOP
+ - MVC
+ - Procedural and functional
+
+## [x] Class vs Object
+## [x] Method vs Property
+## [x] Access modifiers
+## [ ] Inheritence/Extending
+## [ ] Namespacing
+## [ ] Composer
